@@ -227,7 +227,7 @@
     <None Include="Resources\c#.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\c1.jpg" />
+    <None Include="Resources\welcome-1.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\c2.png" />
@@ -245,22 +245,22 @@
     <None Include="Resources\c3 %282%29.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\d3.jpg" />
+    <None Include="Resources\donate-3.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\d2.jpg" />
+    <None Include="Resources\donate-2.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\d1.jpg" />
+    <None Include="Resources\donate-1.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\d3 %282%29.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\d21.jpg" />
+    <None Include="Resources\donate-4.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\l1.png" />
+    <None Include="Resources\life-saver.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\p1.jpg" />
@@ -272,13 +272,13 @@
     <None Include="Resources\m1.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\b1.jpg" />
+    <None Include="Resources\blood-image-1.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\b11.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\b12.jpg" />
+    <None Include="Resources\blood-image-2.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\L11.jpg" />
@@ -287,7 +287,7 @@
     <None Include="Resources\back-icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\s1.jpg" />
+    <None Include="Resources\search.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\s1 %282%29.jpg" />
