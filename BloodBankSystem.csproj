@@ -263,7 +263,7 @@
     <None Include="Resources\life-saver.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\p1.jpg" />
+    <None Include="Resources\lock.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\f1.jpg" />
